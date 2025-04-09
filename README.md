@@ -2,6 +2,8 @@
 
 A simple Python script that automates skipping YouTube ads using Selenium by jumping to the end of the video ad. It simulates a real user session in Chrome and avoids bot detection to ensure smooth video playback
 
+PROFILE CREATED WHEN FILE IS RUN
+
 ---
 
 ## Features
